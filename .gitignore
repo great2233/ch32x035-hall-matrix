@@ -1,0 +1,21 @@
+# 编译产物
+obj/
+*.o
+*.elf
+*.hex
+*.bin
+*.lst
+*.map
+*.d
+
+# 编辑器配置
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统文件
+.DS_Store
+Thumbs.db
